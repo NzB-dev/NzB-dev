@@ -3,7 +3,7 @@
 
 
 <p align="left">
-     
+     /
     </a> 
     <a href="https://github.com/NzB-dev?tab=repositories&sort=stargazers">
         <img 
@@ -25,7 +25,7 @@
 
 ### Tecnologias
 
-/>
+ 
 <img 
     align="left" 
     alt="JavaScript" 
@@ -33,8 +33,8 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-/>
+/> 
+
 <img 
     align="left" 
     alt="Git" 
