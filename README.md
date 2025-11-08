@@ -51,7 +51,7 @@
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" 
+    src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" 
 />
 
 <img   
