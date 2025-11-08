@@ -1,6 +1,6 @@
 ## 👻 NzB
 
-**'Estudande de cyber-sec'**
+**Estudande de cyber-sec**
 
  Olá me chamo NzB, como leu acima sou estudante de cyber-sec também estudo desenvolvimento e automação com Inteligência Artificial, Estou apredendo e estudando javascript e git. Atualmente sou certificado em Segurança da Informação básica mas ainda em busca de mais conhecimentos..😁
 
