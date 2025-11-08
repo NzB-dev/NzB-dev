@@ -2,7 +2,7 @@
 
 **Estudande de cyber-sec**
 
- Olá me chamo NzB, como leu acima sou estudante de cyber-sec também estudo desenvolvimento e automação com Inteligência Artificial, Estou apredendo e estudando javascript e git. Atualmente sou certificado em Segurança da Informação básica mas sempre em busca de mais conhecimentos..😁
+ Olá me chamo NzB, como leu acima sou estudante de cyber-sec também estudo desenvolvimento e automação com Inteligência Artificial, Estou apredendo e estudando javascript e git. Sou fundador da CloudFlows(https://cloud-flows.framer.website) na CloudFlows oferemos auxilios e automatização para seus projetos inovadores lhe entregando e ensinado como usar ferramentas low-code para realizar seus projetos. Atualmente sou certificado em Segurança da Informação básica mas sempre em busca de mais conhecimentos..😁
 
 <p align="left">
     </a> 
