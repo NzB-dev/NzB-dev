@@ -3,7 +3,6 @@
 
 
 <p align="left">
-/
     </a> 
     <a href="https://github.com/NzB-dev?tab=repositories&sort=stargazers">
         <img 
