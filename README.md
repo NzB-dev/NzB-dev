@@ -1,6 +1,6 @@
 ## 👻 NzB
-**'Estudande de cyber-sec'**
 
+**'Estudande de cyber-sec'**
 
 <p align="left">
     </a> 
@@ -22,7 +22,7 @@
 
 
 
-### Tecnologias
+### 👾 Tecnologias
 
  
 <img 
