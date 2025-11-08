@@ -47,11 +47,9 @@
 
 <img
     src="https://upload.wikimedia.org/wikipedia/commons/9/97/Netlify_logo_%282%29.svg" alt="Netlify" width="40" height="40"/>
-/>
 
 <img 
     src="https://lovable.dev/apple-icon.png?59950bbf4c03032c=" alt="Lovable" width="40" height="40"/>
-/>
 
 <br/>
 <br/>
